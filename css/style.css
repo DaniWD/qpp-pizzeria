@@ -1,0 +1,68 @@
+@font-face {
+    src: url(../font/GreatVibes-Regular.ttf);
+    font-family: GreatVibes;
+}
+
+.offcanvas-menu {
+    background-image: url(../img/menu-bg.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
+
+h2 {
+    font-family: GreatVibes;
+}
+
+.alpha-slider-caption {
+    background-color: rgba(127, 0, 0, 0.5);
+    padding: 50px 0;
+}
+
+.text-fresh {
+    color: #53c01d;
+}
+
+.parallax-inner {
+    background-color: rgba(80, 0, 0, 0.3);
+}
+
+h2 mark {
+    background-color: rgba(83, 192, 29, 0.8);
+}
+
+#elerhetosegekCim {
+    margin-top: 13px;
+    margin-bottom: 30px;
+}
+
+#fb-btn {
+    width: 187px;
+    height: 28px;
+    border: none;
+}
+
+.btn-outline-warning:hover, .btn-outline-warning:focus, .btn-outline-warning:active {
+    color: #fff !important;
+}
+
+.form-control:focus {
+    border-color: #ffc107;
+    box-shadow: 0 0 0 0.2rem rgba(255, 193, 7, 0.25);
+}
+
+.modal-header {
+    border-bottom: none !important;
+}
+
+.grid-item {
+    margin-bottom: 30px;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.card-body div .row {
+    border-bottom: dotted 1px #fff;
+    margin: 16px 0 16px 0;
+}
